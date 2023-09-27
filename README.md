@@ -5,7 +5,6 @@ Welcome to the AI-Based Article Summarizer React App. This project is a web appl
 You can see the live demo of the AI-Based Article Summarizer React App here <br/><br/>
 <a href="https://summarease-ai.netlify.app/">Summarease-AI</a>
 
-## Demo
 
 
 ### Features
