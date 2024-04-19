@@ -1,6 +1,6 @@
 # Summarizer_AI_ReactApp
 
-Welcome to the AI-Based Article Summarizer React App. This project is a web application built using react.js, Vite.js, Tailwind CSS, and Redux.js, designed to summarize website article using GPT-4 API from Rapid API.
+Welcome to the AI Article Summarizer React App. This project is a web application built using react.js, Vite.js, Tailwind CSS, and Redux.js, designed to summarize website article using GPT-4 API from Rapid API.
 
 You can see the live demo of the AI-Based Article Summarizer React App here <br/><br/>
 <a href="https://summarease-ai.netlify.app/">Summarease-AI</a>
